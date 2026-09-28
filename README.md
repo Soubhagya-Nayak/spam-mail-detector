@@ -1,6 +1,6 @@
 # Spam Mail Detector
 
-![CI](https://github.com/<your-username>/spam-mail-detector/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Soubhagya-Nayak/spam-mail-detector/actions/workflows/ci.yml/badge.svg)
 
 A machine-learning project that classifies messages as **spam** or **ham** (not spam). It includes a training pipeline that compares three models, a command-line predictor, a Flask REST API, a small web UI, unit tests, and GitHub Actions CI.
 
@@ -52,7 +52,7 @@ spam-mail-detector/
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/spam-mail-detector.git
+git clone https://github.com/Soubhagya-Nayak/spam-mail-detector.git
 cd spam-mail-detector
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
