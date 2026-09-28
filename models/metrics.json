@@ -1,0 +1,24 @@
+{
+  "best_model": "logistic_regression",
+  "cv_f1": {
+    "naive_bayes": 0.9403522935952469,
+    "logistic_regression": 0.9439396125516618,
+    "linear_svm": 0.9407380302076247
+  },
+  "test_accuracy": 0.9845261121856866,
+  "test_precision": 0.9389312977099237,
+  "test_recall": 0.9389312977099237,
+  "test_f1": 0.9389312977099237,
+  "confusion_matrix": [
+    [
+      895,
+      8
+    ],
+    [
+      8,
+      123
+    ]
+  ],
+  "n_train": 4135,
+  "n_test": 1034
+}
